@@ -1,0 +1,121 @@
+{
+  "productos": [
+    {
+      "id": "2334",
+      "nombre": "Motorola G10",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 199000,
+      "precio_promo": 99000,
+      "imagen": "https://cdn.shopify.com/s/files/1/0439/8104/5923/products/MOTOG10S_480x480.png?v=1624472188"
+    },
+    {
+      "id": "2335",
+      "nombre": "Motorola G20",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 149000,
+      "precio_promo": 79000,
+      "imagen": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "2336",
+      "nombre": "Motorola G30",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 169000,
+      "precio_promo": 89000,
+      "imagen": "https://clmoto.vteximg.com.br/arquivos/Moto-G30-Phantom-Black-1000-p45vf1u5.png"
+    },
+    {
+      "id": "2337",
+      "nombre": "Samsung A10",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 129000,
+      "precio_promo": 59000,
+      "imagen": "https://cdnx.jumpseller.com/fixit/image/14808901/thumb/540/540?1613913222"
+    },
+    {
+      "id": "2338",
+      "nombre": "Samsung A20",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 119000,
+      "precio_promo": 59000,
+      "imagen": "https://celhupa.cl/wp-content/uploads/2022/03/Galaxy-A20-Azul-0.png"
+    },
+    {
+      "id": "2339",
+      "nombre": "Samsung A30",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 189000,
+      "precio_promo": 89000,
+      "imagen": "https://drakemall-files-new.s3.eu-central-1.amazonaws.com/Samsung%20-ck0mo69fm001001t20o3bv8er.png"
+    },
+    {
+      "id": "2340",
+      "nombre": "Huawei Y6",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 139000,
+      "precio_promo": 79000,
+      "imagen": "https://certi-tienda-movistar.canalesdigitales.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/y/6/y6s_azul_front-back.png"
+    },
+    {
+      "id": "2341",
+      "nombre": "Huawei Y7",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 149000,
+      "precio_promo": 69000,
+      "imagen": "https://mobilenmore.com/wp-content/uploads/2020/09/hgh-400x400.jpg"
+    }
+  ],
+  "pagedResult": {
+    "page": 1,
+    "size": 10,
+    "total": 12
+  }
+}
